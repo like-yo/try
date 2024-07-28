@@ -1,0 +1,4 @@
+C:/python/linux算子搭建/build/CMakeFiles/shared.dir
+C:/python/linux算子搭建/build/CMakeFiles/try_find.dir
+C:/python/linux算子搭建/build/CMakeFiles/edit_cache.dir
+C:/python/linux算子搭建/build/CMakeFiles/rebuild_cache.dir
